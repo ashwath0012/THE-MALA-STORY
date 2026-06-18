@@ -6,7 +6,7 @@ import bouquet1 from "./assets/bouquet1.jpeg";
 import CollectionSection from "./collectionsection";
 import ContactSection from "./contactsection";
 import FooterSection from "./footersection";
-import FooterSection from "./FooterSection";
+
 import bouquet2 from "./assets/bouquet2.webp";
 import bouquet4 from "./assets/bouquet4.jpg";
 import bouquet5 from "./assets/bouquet5.webp";
